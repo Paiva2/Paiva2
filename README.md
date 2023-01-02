@@ -1,4 +1,4 @@
-### Olá, sou o João.
+### Olá! sou o João.
 Bem-vindo(a) ao meu perfil!
 
 - Estudante de Desenvolvimento Web
