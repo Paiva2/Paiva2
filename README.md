@@ -1,8 +1,9 @@
 ### Olá! sou o João.
 Bem-vindo(a) ao meu perfil!
 
-- Estudante de Desenvolvimento Web
-- São Paulo, Brazil.
+- Estudante de Desenvolvimento Web;
+- São Paulo, Brazil;
+- Inglês avançado.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Paiva2)
 
