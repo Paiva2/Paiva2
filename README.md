@@ -1,9 +1,9 @@
-### Olá! sou o João.
-Bem-vindo(a) ao meu perfil!
+### Hi! i'm João.
+Welcome to my profile!
 
-- Estudante de Desenvolvimento Web
-- São Paulo, Brasil
-- Inglês avançado
+- Web Development student
+- São Paulo, Brazil
+- Advanced English
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Paiva2)
 
