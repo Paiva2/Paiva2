@@ -1,6 +1,3 @@
-### Hi! i'm João.
-Welcome to my profile!
-
 - Web Development student
 - São Paulo, Brazil
 - Intermediary English
