@@ -3,7 +3,7 @@ Welcome to my profile!
 
 - Web Development student
 - São Paulo, Brazil
-- Advanced English
+- Intermediary English
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://github.com/Paiva2)
 
