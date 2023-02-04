@@ -1,4 +1,4 @@
-- Web Development student
+- Front-end developer
 - São Paulo, Brazil
 - Intermediary English<br><br>
 
