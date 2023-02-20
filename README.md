@@ -1,4 +1,4 @@
-- Web developer
+- Web Developer
 - São Paulo, Brazil
 - Intermediary English<br><br>
 
