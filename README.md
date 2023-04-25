@@ -8,6 +8,7 @@
 <img align="left" alt="Typescript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="35px" src="https://skillicons.dev/icons?i=redux" style="padding-right:10px;" />
+<img align="left" alt="styled-components" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg" style="padding-right:10px;" />
 <br><br>
 
 <div>
