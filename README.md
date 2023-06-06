@@ -9,6 +9,7 @@
 <img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="35px" src="https://skillicons.dev/icons?i=redux" style="padding-right:10px;" />
+<img align="left" alt="Prisma" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Prisma.svg" style="padding-right:10px;" />
 <img align="left" alt="styled-components" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg" style="padding-right:10px;" />
 <br><br>
 
