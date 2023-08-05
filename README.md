@@ -13,7 +13,7 @@
 <img align="left" alt="Graphql" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GraphQL-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="styled-components" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" style="padding-right:10px;" />
 <br><br>
 
 <div>
