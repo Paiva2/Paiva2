@@ -8,13 +8,13 @@
 <img align="left" alt="Typescript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Nodejs" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Expressjs" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jest.svg" style="padding-right:10px;" />
 <img align="left" alt="styled-components" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" style="padding-right:10px;" />
 <img align="left" alt="Tailwind" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Nodejs" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Expressjs" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Jest" width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jest.svg" style="padding-right:10px;" />
 <br><br>
 
 <div>
