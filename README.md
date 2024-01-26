@@ -1,4 +1,4 @@
-- Fullstack Web Developer
+- Fullstack Developer
 - São Paulo, Brazil
 - Intermediary English<br><br>
 
