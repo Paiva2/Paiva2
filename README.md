@@ -1,5 +1,5 @@
 - Fullstack Developer<br/>
-- Technologies: TypeScript, React, Node, Express, Nest, Java, Spring.
+- Technologies: TypeScript, React, Vue, Node, Express, Java, Spring, SQL.
 <div>
   <a href="https://github.com/Paiva2">
   <img src="https://github-readme-stats.vercel.app/api?username=paiva2&include_all_commits=true&count_private=true&show_icons=true&theme=dracula"/>
